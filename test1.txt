@@ -1,18 +1,11 @@
 test
 
-<<<<<<< HEAD
-branch Ãß°¡
-
-master1
-=======
 test2
 
 test3
 
 test4
->>>>>>> test
 
 test001
-
 
 master 002
